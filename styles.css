@@ -1,0 +1,33 @@
+* {
+  border: dashed 1px red;
+}
+body {
+  margin: 0;
+}
+.logo, .menu {
+  display: inline-block;
+}
+.logo {
+  background: url('img/logo_1024.svg');
+}
+.menu__item {
+  font: 16px/19px 'museo_sans_cyrl0', arial,helvetica,sans-serif;
+}
+.main__left_subtitle {
+font: 70px/93px 'pt_serifbold', arial,helvetica,sans-serif;
+}
+.main__left_title {
+  font: 200px/265px 'pt_serifbold', arial,helvetica,sans-serif;
+}
+.main__left_text, .main__left_button {
+  font: 16px/19px 'museo_sans_cyrl0', arial,helvetica,sans-serif;
+}
+.main__right_pict1 {
+  background: url('img/pict1_1024.svg');
+}
+.main__right_pict2 {
+  background: url('img/pict2_1024.svg');
+}
+.main__right_pict3 {
+  background: url('img/pict3_1024.svg');
+}
